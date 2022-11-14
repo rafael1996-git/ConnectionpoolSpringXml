@@ -1,0 +1,6 @@
+com\ConnectionpoolSpringXml\dao\InfoService.class
+com\ConnectionpoolSpringXml\dao\IInfoDao.class
+com\ConnectionpoolSpringXml\demo\entity\Usuario.class
+com\ConnectionpoolSpringXml\controller\Controllers.class
+com\ConnectionpoolSpringXml\dao\InfoService$1.class
+com\ConnectionpoolSpringXml\model\UsuarioMapper.class
